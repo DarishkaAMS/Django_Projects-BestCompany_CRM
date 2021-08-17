@@ -30,3 +30,6 @@ class Lead(models.Model):
 class Agent(models.Model):
     user = models.OneToOneField(User, on_delete=models.CASCADE)
 
+    def __str__(self):
+        print(self.user, "FFFFFF")
+        return self.user
