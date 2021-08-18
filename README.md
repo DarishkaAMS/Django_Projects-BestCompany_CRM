@@ -2,4 +2,4 @@
 
 A basic CRM system with Digital Ocean Deployment
 
-1:26:59 - Querysets and Managers
+1:26:59 - Querysets and Managers + 46 maybe
